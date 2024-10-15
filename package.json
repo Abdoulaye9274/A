@@ -1,0 +1,31 @@
+{
+    "name": "cdajourneedeux",
+    "version": "1.0.0",
+    "description": "Un projet Node.js avec Express.js pour afficher des pages simples.",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Abdoulaye Doumbia",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.21.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "{"
+    },
+    "keywords": [
+        "\"description\":",
+        "\"Un",
+        "projet",
+        "Node.js",
+        "avec",
+        "Express.js",
+        "pour",
+        "afficher",
+        "des",
+        "pages",
+        "simples.\""
+    ]
+}
