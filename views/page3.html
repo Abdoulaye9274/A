@@ -30,15 +30,14 @@
             const email = document.getElementById('email').value;
             const password = document.getElementById('password').value;
 
-            if (firstName.length < 2) {
-                alert('Le prénom doit contenir au moins 2 caractères.');
-            } else if (!email.includes('@')) {
-                alert('L\'email est invalide.');
-            } else if (password.length < 6) {
-                alert('Le mot de passe doit contenir au moins 6 caractères.');
+            if (email !== 'abdoulaye.doumbia1501@gmail.com') {
+                alert('Email incorrect');
+            } else if (password !== '1234') {
+                alert('Mot de passe incorrect');
             } else {
-                alert('Formulaire envoyé avec succès !');
+                alert('Connexion réussie !');
             }
+
         });
     </script>
 </body>

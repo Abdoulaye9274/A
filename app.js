@@ -1,7 +1,6 @@
 const express = require('express');
 const app = express();
 const path = require('path');
-
 // Middleware pour servir les fichiers statiques (CSS, images)
 app.use(express.static('public'));
 
