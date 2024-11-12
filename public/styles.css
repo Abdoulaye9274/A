@@ -1,4 +1,3 @@
-/* Style de base pour le corps de la page */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f6f8;
@@ -9,13 +8,9 @@ body {
     flex-direction: column;
     align-items: center;
 }
-
-/* Style des titres */
 h1 {
     color: #4a90e2;
 }
-
-/* Style des formulaires */
 form {
     background-color: #fff;
     padding: 20px;
@@ -56,7 +51,6 @@ button:hover {
     background-color: #357ab8;
 }
 
-/* Style des liens de navigation */
 nav a {
     text-decoration: none;
     color: #4a90e2;
